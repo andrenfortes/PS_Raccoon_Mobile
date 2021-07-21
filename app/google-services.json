@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452296881091",
+    "project_id": "teste-ps-raccoon-5fa8c",
+    "storage_bucket": "teste-ps-raccoon-5fa8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452296881091:android:bff2764304bbbd85588376",
+        "android_client_info": {
+          "package_name": "com.example.teste_ps_raccoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452296881091-qmr7jlrkoe5hor62dj8cnd8i6dftaor9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyOIZh8PV9jvh7kUpHHr8t8wraZxxlWVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452296881091-qmr7jlrkoe5hor62dj8cnd8i6dftaor9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
